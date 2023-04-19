@@ -8,7 +8,6 @@ import com.company.payload.ApiResponse;
 import com.company.repository.AddressRepository;
 import com.company.repository.DepartmentRepository;
 import com.company.repository.WorkerRepository;
-import com.company.utils.MapperUtils;
 import com.company.utils.ResponseUtil;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

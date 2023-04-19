@@ -1,7 +1,6 @@
 package com.company.payload;
 
 import com.company.entity.Company;
-import com.company.payload.AddressDto;
 import lombok.Data;
 
 import java.io.Serializable;

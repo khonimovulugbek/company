@@ -1,8 +1,6 @@
 package com.company.controller;
 
-import com.company.entity.Department;
 import com.company.payload.DepartmentDto;
-import com.company.repository.DepartmentRepository;
 import com.company.service.DepartmentService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
